@@ -1,0 +1,6 @@
+
+# IDE specific files
+/.idea/
+
+# Locally installed dependencies
+/node_modules/

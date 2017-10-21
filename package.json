@@ -1,0 +1,27 @@
+{
+  "name": "@zephyrec/rest-hal-dynlinks",
+  "version": "1.0.0",
+  "description": "Express.js middleware that provide dynamic links to REST HAL resources",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ava 'src/**/*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zephyrec/rest-hal-dynlinks.git"
+  },
+  "keywords": [
+    "rest",
+    "hal",
+    "express"
+  ],
+  "author": "Zephyrec <lococeq.1985@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zephyrec/rest-hal-dynlinks/issues"
+  },
+  "homepage": "https://github.com/zephyrec/rest-hal-dynlinks#readme",
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
